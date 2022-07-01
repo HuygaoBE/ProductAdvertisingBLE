@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\src\debug\jniLibs"/></dataSet></merger>

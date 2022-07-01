@@ -1,0 +1,13 @@
+com/example/bluetoothgatt/AdRecord.java
+ com.example.bluetoothgatt.AdRecord
+com/example/bluetoothgatt/BuildConfig.java
+ com.example.bluetoothgatt.BuildConfig
+com/example/bluetoothgatt/DBAdapter.java
+ com.example.bluetoothgatt.DBAdapter
+com/example/bluetoothgatt/MainActivity.java
+ com.example.bluetoothgatt.MainActivity
+ com.example.bluetoothgatt.MainActivity$1
+ com.example.bluetoothgatt.MainActivity$2
+ com.example.bluetoothgatt.MainActivity$3
+ com.example.bluetoothgatt.MainActivity$4
+ com.example.bluetoothgatt.MainActivity$5

@@ -1,0 +1,139 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\values-v21\\config.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,99",
+                        "endColumns": "40,41",
+                        "endOffsets": "93,136"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,96",
+                        "endColumns": "40,41",
+                        "endOffsets": "91,133"
+                    }
+                },
+                {
+                    "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "110"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "138",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "227"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "50",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "348",
+                        "endColumns": "50",
+                        "endOffsets": "394"
+                    }
+                },
+                {
+                    "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\values\\config.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,98",
+                        "endColumns": "39,42",
+                        "endOffsets": "92,136"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,95",
+                        "endColumns": "39,42",
+                        "endOffsets": "90,133"
+                    }
+                },
+                {
+                    "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,5,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "90,148,257,204",
+                        "endColumns": "56,54,45,51",
+                        "endOffsets": "142,198,298,251"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "138,195,250,296",
+                        "endColumns": "56,54,45,51",
+                        "endOffsets": "190,245,291,343"
+                    }
+                },
+                {
+                    "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "110"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "399",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "486"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thanh\\.gradle\\caches\\transforms-3\\8560d4e21b1cf167136c1f7061a51fe1\\transformed\\android-gif-drawable-1.2.19\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,234",
+                        "endLines": "5,9",
+                        "endColumns": "24,24",
+                        "endOffsets": "229,400"
+                    },
+                    "to": {
+                        "startLines": "14,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "491,670",
+                        "endLines": "17,21",
+                        "endColumns": "24,24",
+                        "endOffsets": "665,836"
+                    }
+                }
+            ]
+        }
+    ]
+}

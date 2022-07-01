@@ -1,0 +1,72 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bluetoothgatt"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+9        android:targetSdkVersion="21" />
+9-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+10
+11    <uses-feature
+11-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:7:5-89
+12        android:name="android.hardware.bluetooth_le"
+12-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:7:19-63
+13        android:required="true" />
+13-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:7:64-87
+14
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:9:5-67
+15-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:9:22-65
+16    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+16-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:10:5-73
+16-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:10:22-71
+17    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+17-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:11:5-76
+17-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:11:22-73
+18    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+18-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:13:5-73
+18-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:13:22-70
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:14:5-81
+19-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:14:22-78
+20    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+20-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:15:5-81
+20-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:15:22-78
+21
+22    <application
+22-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:17:5-34:19
+23        android:allowBackup="true"
+23-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:18:9-35
+24        android:debuggable="true"
+25        android:icon="@drawable/ic_launcher"
+25-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:19:9-45
+26        android:label="@string/app_name"
+26-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:20:9-41
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:21:9-40
+29        <activity
+29-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:23:9-31:20
+30            android:name="com.example.bluetoothgatt.MainActivity"
+30-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:24:13-41
+31            android:label="BLE Global"
+31-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:25:13-39
+32            android:screenOrientation="unspecified" >
+32-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:26:13-52
+33            <intent-filter>
+33-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:27:13-30:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:28:17-69
+34-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:28:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:29:17-77
+36-->D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:29:27-74
+37            </intent-filter>
+38        </activity>
+39    </application>
+40
+41</manifest>

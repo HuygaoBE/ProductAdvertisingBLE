@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_image_gif2.gif.flat",
+        "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\drawable-mdpi\\image_gif2.gif"
+    },
+    {
+        "merged": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_negative.png.flat",
+        "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\drawable-hdpi\\icon_negative.png"
+    },
+    {
+        "merged": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\drawable_button_style.xml.flat",
+        "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\drawable\\button_style.xml"
+    },
+    {
+        "merged": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

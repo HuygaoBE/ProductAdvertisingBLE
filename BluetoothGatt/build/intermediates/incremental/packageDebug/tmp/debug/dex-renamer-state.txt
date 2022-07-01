@@ -1,0 +1,4 @@
+#Sun Dec 26 16:06:49 ICT 2021
+base.0=D\:\\TL_HK9_2021-2022\\CT592_LVTN\\Android2_Copy\\accessory-samples\\BluetoothGatt\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

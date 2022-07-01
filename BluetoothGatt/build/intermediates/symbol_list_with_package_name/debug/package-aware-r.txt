@@ -1,0 +1,24 @@
+com.example.bluetoothgatt
+attr freezesAnimation
+attr gifSource
+attr isOpaque
+attr loopCount
+bool use_kitkat
+bool use_lollipop
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+dimen label_text_size
+dimen measurement_text_size
+drawable button_style
+drawable ic_launcher
+drawable icon_negative
+drawable image_gif2
+id btnDelete
+id btnView
+id image_gif
+id texttitle
+layout activity_main
+string app_name
+style AppTheme
+styleable GifTextureView gifSource isOpaque
+styleable GifView freezesAnimation loopCount

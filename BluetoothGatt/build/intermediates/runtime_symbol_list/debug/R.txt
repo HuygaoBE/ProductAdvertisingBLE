@@ -1,0 +1,27 @@
+int attr freezesAnimation 0x7f080000
+int attr gifSource 0x7f080001
+int attr isOpaque 0x7f080002
+int attr loopCount 0x7f080003
+int bool use_kitkat 0x7f010000
+int bool use_lollipop 0x7f010001
+int dimen activity_horizontal_margin 0x7f020000
+int dimen activity_vertical_margin 0x7f020001
+int dimen label_text_size 0x7f020002
+int dimen measurement_text_size 0x7f020003
+int drawable button_style 0x7f030004
+int drawable ic_launcher 0x7f030000
+int drawable icon_negative 0x7f030001
+int drawable image_gif2 0x7f030003
+int id btnDelete 0x7f040006
+int id btnView 0x7f040004
+int id image_gif 0x7f040005
+int id texttitle 0x7f040007
+int layout activity_main 0x7f050000
+int string app_name 0x7f060000
+int style AppTheme 0x7f070000
+int[] styleable GifTextureView { 0x7f080001, 0x7f080002 }
+int styleable GifTextureView_gifSource 0
+int styleable GifTextureView_isOpaque 1
+int[] styleable GifView { 0x7f080000, 0x7f080003 }
+int styleable GifView_freezesAnimation 0
+int styleable GifView_loopCount 1

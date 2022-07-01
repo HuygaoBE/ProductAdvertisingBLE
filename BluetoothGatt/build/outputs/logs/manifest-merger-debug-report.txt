@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:2:1-36:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\thanh\.gradle\caches\transforms-3\8560d4e21b1cf167136c1f7061a51fe1\transformed\android-gif-drawable-1.2.19\AndroidManifest.xml:2:1-9:12
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\thanh\.gradle\caches\transforms-3\d74162fbebbb81267f9767b75caaa54f\transformed\relinker-1.3.1\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:3:5-40
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:5:5-30
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:4:5-28
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:7:5-89
+	android:required
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:7:64-87
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:7:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:15:22-78
+application
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:17:5-34:19
+	android:label
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:21:9-40
+activity#com.example.bluetoothgatt.MainActivity
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:26:13-52
+	android:label
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:25:13-39
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\thanh\.gradle\caches\transforms-3\8560d4e21b1cf167136c1f7061a51fe1\transformed\android-gif-drawable-1.2.19\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\thanh\.gradle\caches\transforms-3\8560d4e21b1cf167136c1f7061a51fe1\transformed\android-gif-drawable-1.2.19\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\thanh\.gradle\caches\transforms-3\d74162fbebbb81267f9767b75caaa54f\transformed\relinker-1.3.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\thanh\.gradle\caches\transforms-3\d74162fbebbb81267f9767b75caaa54f\transformed\relinker-1.3.1\AndroidManifest.xml:5:5-43
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+		ADDED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
+		INJECTED from D:\TL_HK9_2021-2022\CT592_LVTN\Android2_Copy\accessory-samples\BluetoothGatt\AndroidManifest.xml
