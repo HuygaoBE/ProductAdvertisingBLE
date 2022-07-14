@@ -2,12 +2,12 @@
 
 **_[Language VietNamese]_**
 
-* Hệ thống quảng cáo sản phẩm dựa trên công nghệ Bluetooth Mobile & Raspberry Pi - là đề tài luận văn tốt nghiệp do tôi [Nguyễn Thanh Huy](https://www.facebook.com/profile.php?id=100007416721622) thực hiện và đã bảo vệ luận văn tốt nghiệp vào tháng 12/2021. Hệ thống được chia làm 2 phần: Mobile app(quét các gói quảng cáo Bluetooth) và phần mềm(phát các gói quảng cáo bluetooth) chạy trên Raspberry Pi 4B. Mô hình có thể ví như tờ rơi quảng cáo như được số hóa thành tờ rơi điện tử, khi người dùng bật app và cho app chạy nền thì, khi mỗi lần bạn đi ngang qua 1 thiết bị phát quảng cáo(Raspberry Pi) thì Smartphone đó sẽ **tự động nhận được** tờ rơi điện tử mà **không cần phải kết nối** giống như tai nghe. Mục đích của việc này là giúp giải phóng sức lao động cho con người vào công việc phát tờ rơi quảng cáo, poster... Luận văn tốt nghiệp được phát triển trong thời gian chống dịch Covid-19 nằm việc quảng cáo tránh tiếp xúc gần.
+* Hệ thống quảng cáo sản phẩm dựa trên công nghệ Bluetooth Mobile & Raspberry Pi - là đề tài luận văn tốt nghiệp do tôi [Nguyễn Thanh Huy](https://www.facebook.com/profile.php?id=100007416721622) thực hiện và đã bảo vệ luận văn tốt nghiệp vào tháng 12/2021. Hệ thống được chia làm 2 phần: Mobile app(quét các gói quảng cáo Bluetooth) và phần mềm(phát các gói quảng cáo bluetooth) chạy trên Raspberry Pi 4B. Mô hình có thể ví như tờ rơi quảng cáo như được số hóa thành tờ rơi điện tử, khi người dùng bật app và cho app chạy nền thì, khi mỗi lần bạn đi ngang qua 1 thiết bị phát quảng cáo(Raspberry Pi) thì Smartphone đó sẽ **tự động nhận được** tờ rơi điện tử mà **không cần phải kết nối** giống như tai nghe, tính năng đo khoảng các từ chỗ Smartphone đến chỗ phát gói tin quảng cáo(Raspberry Pi) giúp bạn có thể xác định được vị trí cửa hàng bán sản phẩm nếu thiết bị quảng cáo được đặt tại cửa hàng. Mục đích của việc này là giúp giải phóng sức lao động cho con người vào công việc phát tờ rơi quảng cáo, poster... Luận văn tốt nghiệp được phát triển trong thời gian chống dịch Covid-19 nằm việc quảng cáo tránh tiếp xúc gần.
 
 <img src="./images/Mohinh.PNG" width="750" height="350" /> 
 
   * Phần hệ thống(Raspberry Pi 4B)
-    * ứng dụng phát quảng cáo được viết bằng Python và sử dụng thư viện [BlueZ](http://www.bluez.org/)
+    * ứng dụng phát quảng cáo được viết bằng Python và sử dụng thư viện [BlueZ.](http://www.bluez.org/)
 	* Giao thức AMQP(RabittMQ - Pika) dùng để làm client gửi yêu cầu nhận Json từ Web Server truyền các gói quảng cáo sản phẩm.
 	
 	<img src="./images/iconRabbitMQ.png" width="550" height="350" /> 
@@ -34,6 +34,7 @@
 	* Giải mã Json catalogue sản phẩm và đẩy cho ngăn xếp Bluetooth phát các gói tin quảng cáo.
     * Tự động cắt chuỗi dữ liệu quảng cáo dựa trên giải thuật **Flag byte with byte stuffing**.
 	* Tự động gán nhãn các gói tin quảng cáo phát ra dựa trên giải thuật **Maximum Transmission Unit**.
+	* Có thể đo được khoảng cách từ Smartphone đến vị trí đặt thiết bị quảng cáo(Raspberry Pi).
   
   * **Phần ứng dụng quét gói tin quảng cáo (Smartphone Android)**
     <img src="./images/UI_App.jpg" width="350" height="650" />
