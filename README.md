@@ -50,22 +50,22 @@
 	
 ## 🔧Installation setup
 
-  * **Giải thuật sử dụng các byte làm cờ và các byte độn (Flag byte with byte stuffing)**
+### * Giải thuật sử dụng các byte làm cờ và các byte độn (Flag byte with byte stuffing)
   <img src="./images/giaithuat_Flags.PNG" width="750" height="450" />
   
-  * **Giải thuật Maximum Transmission Unit(MTU)**
+### Giải thuật Maximum Transmission Unit(MTU)
   <img src="./images/giaithuat_MTU.PNG" width="750" height="450" />
   
-  * **Cấu trúc packet Header quảng cáo đầu tiên được phân đoạn**
+### Cấu trúc packet Header quảng cáo đầu tiên được phân đoạn
   <img src="./images/packet_adv_local_name0.PNG" width="750" height="100" />
   
-  * **Cấu trúc packet Data quảng cáo đầu tiên được phân đoạn**
+### Cấu trúc packet Data quảng cáo đầu tiên được phân đoạn
   <img src="./images/packet_adv_data0.PNG" width="750" height="100" />
   
-  * **Cấu trúc packet Header quảng cáo cuối cùng được phân đoạn**
+### Cấu trúc packet Header quảng cáo cuối cùng được phân đoạn
   <img src="./images/packet_adv_local_name_17.PNG" width="750" height="100" />
   
-  * **Cấu trúc packet Data quảng cáo cuối cùng được phân đoạn**
+### Cấu trúc packet Data quảng cáo cuối cùng được phân đoạn
   <img src="./images/packet_adv_data17.PNG" width="750" height="100" />
 
 ## 📘Main libraries used
