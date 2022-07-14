@@ -44,7 +44,9 @@
 	* Tính năng tự động lọc các gói quảng cáo dựa trên dịch vụ quảng cáo UUID 16 bits.
 	* Các gói tin quảng cáo được lưu trữ bởi cơ sở dữ liệu SQLite.
 	* Khi nhận tổng hợp đủ các gói quảng do giải thuật **Maximum Transmission Unit** gán nhãn tách gói, thì sẽ tạo thành 1 danh sách quảng cáo các sản phẩm và hiện trên màn hình.
-	  <img src="./images/DataTrue.PNG" width="350" height="650" /> <img src="./images/ads.jpg" width="350" height="650" />
+	  <img src="./images/DataTrue.PNG" width="750" height="350" />
+	  
+	  <img src="./images/ads.jpg" width="350" height="650" />
 	
 ## 🔧Installation setup
 
