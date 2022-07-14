@@ -4,6 +4,8 @@
 
 * Hệ thống quảng cáo sản phẩm dựa trên công nghệ Bluetooth Mobile & Raspberry Pi - là đề tài luận văn tốt nghiệp do tôi [Nguyễn Thanh Huy](https://www.facebook.com/profile.php?id=100007416721622) thực hiện và đã bảo vệ luận văn tốt nghiệp vào tháng 12/2021. Hệ thống được chia làm 2 phần: Mobile app(quét các gói quảng cáo Bluetooth) và phần mềm(phát các gói quảng cáo bluetooth) chạy trên Raspberry Pi 4B. Mô hình có thể ví như tờ rơi quảng cáo như được số hóa thành tờ rơi điện tử, khi người dùng bật app và cho app chạy nền thì, khi mỗi lần bạn đi ngang qua 1 thiết bị phát quảng cáo(Raspberry Pi) thì Smartphone đó sẽ **tự động nhận được** tờ rơi điện tử mà **không cần phải kết nối** giống như tai nghe, tính năng đo khoảng các từ chỗ Smartphone đến chỗ phát gói tin quảng cáo(Raspberry Pi) giúp bạn có thể xác định được vị trí cửa hàng bán sản phẩm nếu thiết bị quảng cáo được đặt tại cửa hàng. Mục đích của việc này là giúp giải phóng sức lao động cho con người vào công việc phát tờ rơi quảng cáo, poster... Luận văn tốt nghiệp được phát triển trong thời gian chống dịch Covid-19 nằm việc quảng cáo tránh tiếp xúc gần.
 
+* Để hiểu thêm về **Hệ thống quảng cáo sản phẩm dựa trên công nghệ Bluetooth** đầy đủ, mời bạn có thể tham khảo tài liệu do tôi viết [tại đây.](./Document.pdf)
+
 <img src="./images/Mohinh.PNG" width="750" height="350" /> 
 
   * Phần hệ thống(Raspberry Pi 4B)
@@ -15,8 +17,6 @@
   * Phần ứng dụng(Android)
     * Ứng dụng nhận các gói quảng cáo Bluetooth được viết bằng Java.
 	* Dữ liệu quảng cáo được lưu trữ cơ sở dữ liệu quan hệ SQLite.
-	
-* Để hiểu thêm về **Hệ thống quảng cáo sản phẩm dựa trên công nghệ Bluetooth** đầy đủ, mời bạn có thể tham khảo tài liệu do tôi viết [tại đây.](./Document.pdf)
 
 ## 🔑Features
 
