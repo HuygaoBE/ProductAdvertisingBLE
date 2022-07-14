@@ -69,7 +69,7 @@
   <img src="./images/packet_adv_data17.PNG" width="750" height="100" />
 
 ## 📘Main libraries used
-* [Thư viện BlueZ](http://www.bluez.org/) dùng để phát các gói tin quảng cáo Bluetooth.
+* [Thư viện BlueZ dùng để phát các gói tin quảng cáo Bluetooth.](http://www.bluez.org/)
 * [Thư viện Pika.](https://pika.readthedocs.io/en/stable/#)
 * [Tài liệu tổng quan vể Bluetooth.](https://microchipdeveloper.com/wireless:ble-gap-overview)
 * [Tài liệu tham khảo lập trình Bluetooth trên nền tảng Android.](https://developer.android.com/reference/classes)
