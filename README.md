@@ -20,7 +20,7 @@
 
 ## 🔑Features
 
-####  * **Phần hệ thống(Raspberry Pi 4B)**
+  * **Phần hệ thống(Raspberry Pi 4B)**
   
     * Phát các gói tin quảng cáo dựa trên tầng **Generic Access Profile(GAP)** của giao thức Bluetooth.
 	
@@ -35,7 +35,7 @@
     * Tự động cắt chuỗi dữ liệu quảng cáo dựa trên giải thuật **Flag byte with byte stuffing**.
 	* Tự động gán nhãn các gói tin quảng cáo phát ra dựa trên giải thuật **Maximum Transmission Unit**.
   
-####  * **Phần ứng dụng quét gói tin quảng cáo (Smartphone Android)**
+  * **Phần ứng dụng quét gói tin quảng cáo (Smartphone Android)**
   <img src="./images/UI_App.jpg" width="350" height="650" />
   
     * Ứng dụng chạy nền chỉ cần bạn đi ngang qua 1 thiết bị phát quảng cáo(Raspberry Pi) thì Smartphone của bạn tự động nhận được các gói tin quảng cáo, và tự động tập hợp lại thành 1 tờ rơi điện tự.
@@ -47,22 +47,22 @@
 	<img src="./images/DataTrue.PNG" width="350" height="650" /> <img src="./images/ads.jpg" width="350" height="650" />
 	
 ## 🔧Installation setup
-####  * **Giải thuật sử dụng các byte làm cờ và các byte độn (Flag byte with byte stuffing)**
+  * **Giải thuật sử dụng các byte làm cờ và các byte độn (Flag byte with byte stuffing)**
   <img src="./images/giaithuat_Flags.PNG" width="750" height="450" />
   
-####  * **Giải thuật Maximum Transmission Unit(MTU)**
+  * **Giải thuật Maximum Transmission Unit(MTU)**
   <img src="./images/giaithuat_MTU.PNG" width="750" height="450" />
   
-####  * **Cấu trúc packet Header quảng cáo đầu tiên được phân đoạn**
+  * **Cấu trúc packet Header quảng cáo đầu tiên được phân đoạn**
   <img src="./images/packet_adv_local_name0.PNG" width="750" height="250" />
   
-####  * **Cấu trúc packet Data quảng cáo đầu tiên được phân đoạn**
+  * **Cấu trúc packet Data quảng cáo đầu tiên được phân đoạn**
   <img src="./images/packet_adv_data0.PNG" width="750" height="250" />
   
-####  * **Cấu trúc packet Header quảng cáo cuối cùng được phân đoạn**
+  * **Cấu trúc packet Header quảng cáo cuối cùng được phân đoạn**
   <img src="./images/packet_adv_local_name_17.PNG" width="750" height="250" />
   
-####  * **Cấu trúc packet Data quảng cáo cuối cùng được phân đoạn**
+  * **Cấu trúc packet Data quảng cáo cuối cùng được phân đoạn**
   <img src="./images/packet_adv_data17.PNG" width="750" height="250" />
 
 ## 📘Main libraries used
