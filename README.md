@@ -49,7 +49,7 @@
 	  
 	  <img src="./images/ads.jpg" width="350" height="650" />
 	
-## 🔧Installation setup
+## 🔧Installation setup1
 
 ### Giải thuật sử dụng các byte làm cờ và các byte độn (Flag byte with byte stuffing)
   <img src="./images/giaithuat_Flags.PNG" width="750" height="450" />
