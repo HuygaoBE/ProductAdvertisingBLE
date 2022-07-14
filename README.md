@@ -50,7 +50,7 @@
 	
 ## 🔧Installation setup
 
-### * Giải thuật sử dụng các byte làm cờ và các byte độn (Flag byte with byte stuffing)
+### Giải thuật sử dụng các byte làm cờ và các byte độn (Flag byte with byte stuffing)
   <img src="./images/giaithuat_Flags.PNG" width="750" height="450" />
   
 ### Giải thuật Maximum Transmission Unit(MTU)
