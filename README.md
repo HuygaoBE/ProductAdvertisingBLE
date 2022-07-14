@@ -26,7 +26,7 @@
 	
 	<img src="./images/Player_ble-stack-gap.png" width="550" height="350" />
 
-    * Gửi các gói tin quảng các bắt buộc trên 3 kênh: 37, 38, 39
+    * Gửi các gói tin quảng các bắt buộc trên 3 kênh: 37, 38, 39.
 	
 	<img src="./images/roles-unicast-discovery.png" width="550" height="350" />
 	
